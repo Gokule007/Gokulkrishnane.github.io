@@ -4,15 +4,15 @@ Model-Based Development Engineer | Locomotive & EV Systems
 
 📍 Bangalore, India
 📧 gokule007@gmail.com
-🔗 LinkedIn: (add later)
+🔗 LinkedIn:
 
 ⸻
 
-🔹 About Me
+🔹 **About Me**
 
 I am a Model-Based Development Engineer with 4+ years of experience in designing, testing, and integrating control systems for locomotive and traction applications. I specialize in MATLAB/Simulink-based development, MIL/SIL testing, and requirements-based engineering for safety-critical systems
 
-EDUCATION
+**EDUCATION**
 Master's Certification Program in Electric Vehicle Design & Analysis| SKILL LYNC.	    [2021]
 B-TECH -EEE, Alpha College of Engineering and Technology | Pondicherry -| 7/10.	[2018]
 12th, I.K. Kumaran Govt Higher Secondary School | Pandakkal | 68%.	[2014]
@@ -20,32 +20,32 @@ B-TECH -EEE, Alpha College of Engineering and Technology | Pondicherry -| 7/10.	
 
 
 
-TECHNICAL SKILLS
+**TECHNICAL SKILLS**
 •	Technical Skill: MATLAB, SIMULINK, STATE FLOW, GIT, JENKINS, DOORS, MITRAC tools
 •	Programming: Basics of shell scripting ,docker commands  
 •	Microsoft Office package: MS Word, Excel, Power point
 
 
 
-WORK EXPERIENCE
+**WORK EXPERIENCE**
 
-Senior software engineer – 04/2023 to present
-Engineer - 02/2022 to 04/2023
+**Senior software engineer** – 04/2023 to present
+**Engineer** - 02/2022 to 04/2023
 
- Quest Global (Wabtec Corporation – Controls Engineer) 12/2022 - present
+ **Quest Global (Wabtec Corporation – Controls Engineer)** 12/2022 - present
 •	Analyzing ideas, models, and user requirements to formulate a design strategy.
 •	 Design model using Simulink as per user requirement.
 •	 Unit test model and verify its functionality.
 •	 Integrating the models and test in simulator.
 •	 Verification and testing. 
-Quest Global (Alstom transportation – Traction control Engineer) 02/2022 – 12/2022
+**Quest Global (Alstom transportation – Traction control Engineer)** 02/2022 – 12/2022
 •	Analyze processes, Design and implementation using MITRAC tools.
 •	Design Testing using MITRAC tools and documentation.
 •	Overall Testing using MATLAB software.
 
-Engineering Intern -08/2021 to 11/2021
+**Engineering Intern** -08/2021 to 11/2021
 
- Epowerx Learning Technologies P LTD
+ **Epowerx Learning Technologies P LTD**
 
   Modelling a Battery Powered Electric Scooter (Unagi E250)
 •	Designed a Battery powered electric scooter with the help of Simulink using a permanent Magnet DC Motor, simple simscape battery, PID controller and various powertrain block sets.
@@ -54,9 +54,9 @@ Engineering Intern -08/2021 to 11/2021
 •	Designed battery modeling of unagi e250 scooter with the help of Simulink using simscape battery (LifePO4) and various block sets.
 •	Determine the state of charge, voltage and current of the battery model 
 
-Electrical Control Engineer- 04/2020 to 04/2021
+**Electrical Control Engineer**- 04/2020 to 04/2021
 
- Witelines
+ **Witelines**
 •	Analyze machine processes, design and implement
 •	Troubleshooting issues with hardware and processes.
 •	Plan preventative maintenance.
@@ -66,9 +66,9 @@ Electrical Control Engineer- 04/2020 to 04/2021
 
 
 
-Electrical Site Engineer-06/2018 to 03/2020
+**Electrical Site Engineer**-06/2018 to 03/2020
 
- Malabar Engineering company
+ **Malabar Engineering company**
 •	Documented design using CAD drawings.
 •	Improved methods for measurement, documentation and workflow management.
 •	Determined most effective approaches to new projects by reading and analyzing blueprints, drawings and sketches.
@@ -77,7 +77,7 @@ Electrical Site Engineer-06/2018 to 03/2020
 •	Coordinated materials delivery and organization to maintain smooth flow of work.
 •	Read and interpreted blueprints, diagrams and schematics to correctly coordinate work.
 
-PROJECTS
+**PROJECTS**
    Vehicle direction detection
 •	Identifying the direction of the vehicle is one of the important & diverse features in Autonomous driving & Advanced Driver Assistance Features. This particular sub-feature of identifying the direction of vehicle is basically identifying the direction the vehicle is taking based on the camera input.
   
@@ -90,7 +90,7 @@ PROJECTS
 
    BATTERY-ELECTRIC LOCOMOTIVE TECHNOLOGY
 •	The Wabtec FLXdrive is the world's first 100% battery-electric, heavy-haul locomotive, designed to replace diesel locomotives in a hybrid configuration, offering zero-emission operation and reduced fuel consumption through regenerative braking and efficient energy management. 
-CERTIFICATIONS
+**CERTIFICATIONS**
 •	Simulink for Electrical &Mechanical Engineers (Skill-Lync)
 •	Introduction to HEV using MATLAB & Simulink (Skill-Lync)
 •	Introduction to Control of Electric Vehicle using MATLAB (Skill-Lync)
@@ -99,7 +99,7 @@ CERTIFICATIONS
 •	Introduction to Automotive Embedded Systems & Autosar. (Skill-Lync)
 
 
-LANGUAGES KNOWN
+**LANGUAGES KNOWN**
 •	English |Malayalam| Tamil | Hindi
 
 
